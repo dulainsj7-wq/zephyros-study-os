@@ -2,7 +2,7 @@
   "name": "Zephyros Study OS",
   "short_name": "Zephyros",
   "description": "Your premium study operating system.",
-  "start_url": "./zephyros_lavender_fixed.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#faf7ff",
   "theme_color": "#8b5cf6",
