@@ -1,6 +1,6 @@
 const CACHE_NAME = 'zephyros-v1';
 const ASSETS = [
-  './zephyros_lavender_fixed.html',
+  './index.html',
   './manifest.json',
   './icon-192.png',
   './icon-512.png'
